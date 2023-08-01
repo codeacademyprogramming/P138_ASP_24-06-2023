@@ -1,0 +1,2 @@
+﻿@model IEnumerable<Setting>
+<p>@Html.Raw(Model.FirstOrDefault(s=>s.Key == "Slogan").Value)</p>

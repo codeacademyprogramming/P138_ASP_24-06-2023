@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P138Api", "P138Api\P138Api.csproj", "{4920E2E5-1612-4305-99F5-CC1E84DC4533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4920E2E5-1612-4305-99F5-CC1E84DC4533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4920E2E5-1612-4305-99F5-CC1E84DC4533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4920E2E5-1612-4305-99F5-CC1E84DC4533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4920E2E5-1612-4305-99F5-CC1E84DC4533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F574AF59-7B35-461E-9094-1E6685364D4F}
+	EndGlobalSection
+EndGlobal

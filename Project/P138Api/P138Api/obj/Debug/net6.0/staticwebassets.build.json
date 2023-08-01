@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "NURH6kOApUKIOuqOWVoElJHC8tL+12RC5GW042VeOOM=",
+  "Source": "P138Api",
+  "BasePath": "_content/P138Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "P138Api\\wwwroot",
+      "Source": "P138Api",
+      "ContentRoot": "C:\\Users\\hamid.mammadov\\Desktop\\P138\\Project\\P138Api\\P138Api\\wwwroot\\",
+      "BasePath": "_content/P138Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

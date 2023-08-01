@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>P138Api</name>
+    </assembly>
+    <members>
+        <member name="M:P138Api.Controllers.V1.CategoriesController.Post(P138Api.DTOs.CategoriesDtos.CategoryPostDto)">
+            <summary>
+            Creates an Employee.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST api/v1/Categories
+                {        
+                  "adi": "Mike",
+                  "ustCategoriyadirmi": false,
+                  "ustCategoriyasi": 5,
+                  "file":""
+                }
+            </remarks>
+            <param name="categoryPostDto"></param>
+            <returns>A newly created employee</returns>
+            <response code="201">Returns the newly created item Id</response>
+            <response code="400">If the item is null</response>    
+        </member>
+        <member name="P:P138Api.DTOs.CategoriesDtos.CategoryPostDto.Adi">
+            <summary>
+            Kategoriyanin Adi
+            </summary>
+        </member>
+        <member name="P:P138Api.DTOs.CategoriesDtos.CategoryPostDto.UstCategoriyadirmi">
+            <summary>
+            Kategoriya Status
+            </summary>
+        </member>
+    </members>
+</doc>
